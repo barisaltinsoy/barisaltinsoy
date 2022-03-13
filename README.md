@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barisaltinsoy" alt="barisaltinsoy" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, TypeScript, Angular** via dedicated Bootcamps and **React** via 'Full Stack Project Team'.
+- 🌱 I’m currently learning 
+-- **HTML, CSS, JS, TypeScript, Angular** via dedicated Bootcamps and **React** via 'Full Stack Project Team'.
 
 - 📫 How to reach me **baris.altinsoy@gmail.com**
 
