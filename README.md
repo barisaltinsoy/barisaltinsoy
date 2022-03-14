@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barisaltinsoy" alt="barisaltinsoy" /></a> </p>
 
 🌱 I’m currently learning:
-- **HTML, CSS, JS** via Acceleration Programm,
-- **TypeScript, Angular** via Orion Innovation sponsored Cootcamp
+- **HTML, CSS, JS** via Acceleration Program,
+- **TypeScript, Angular** via Orion Innovation sponsored Bootcamp,
 - **React** via 'Full Stack Project Team'.
 
 - 📫 How to reach me **baris.altinsoy@gmail.com**
