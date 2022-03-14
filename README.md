@@ -9,8 +9,7 @@
 - **HTML, CSS, JS** via Acceleration Program,
 - **TypeScript, Angular** via Orion Innovation sponsored Bootcamp,
 - **React** via 'Full Stack Project Team'.
-
-
+<br>
 <p> 📫 How to reach me **baris.altinsoy@gmail.com** </p>
 
 <h3 align="left">Connect with me:</h3>
